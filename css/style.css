@@ -11,6 +11,13 @@
  .hide{
   display: none;
  }
+ 
+ /* .border-box1{
+  border: solid !important;
+  border-color: green !important;
+  border-radius: 8px !important;
+  height: 250px !important;
+ } */
 
 :root {
   --blue: #007bff;
