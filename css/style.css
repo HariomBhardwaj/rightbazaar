@@ -12,12 +12,16 @@
   display: none;
  }
  
- /* .border-box1{
-  border: solid !important;
-  border-color: green !important;
-  border-radius: 8px !important;
-  height: 250px !important;
- } */
+ .item-border {
+   border: solid;
+   border-color: green;
+   border-radius: 4px;
+   height: 246px;
+   width: 126px;
+   text-align: center;
+   padding: 0px;
+   border-style: double;
+ }
 
 :root {
   --blue: #007bff;
